@@ -1,0 +1,20 @@
+{
+  "name": "proyectoback",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./server.js",
+    "dev": "nodemon ./server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "e-commerce",
+  "dependencies": {
+    "express": "^4.21.0",
+    "express-handlebars": "^8.0.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.4"
+  }
+}
