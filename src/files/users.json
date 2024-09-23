@@ -1,0 +1,243 @@
+[
+    {
+      "name": "Lucas",
+      "surname": "Gómez",
+      "mail": "lucas.gomez@example.com",
+      "password": "password123"
+    },
+    {
+      "name": "Martina",
+      "surname": "Pérez",
+      "mail": "martina.perez@example.com",
+      "password": "securePass456"
+    },
+    {
+      "name": "Sofía",
+      "surname": "Fernández",
+      "mail": "sofia.fernandez@example.com",
+      "password": "fernandez789"
+    },
+    {
+      "name": "Mateo",
+      "surname": "Rodríguez",
+      "mail": "mateo.rodriguez@example.com",
+      "password": "rodriguezPass1"
+    },
+    {
+      "name": "Valentina",
+      "surname": "López",
+      "mail": "valentina.lopez@example.com",
+      "password": "valentinaPass!"
+    },
+    {
+      "name": "Santiago",
+      "surname": "Martínez",
+      "mail": "santiago.martinez@example.com",
+      "password": "martinez2024"
+    },
+    {
+      "name": "Camila",
+      "surname": "García",
+      "mail": "camila.garcia@example.com",
+      "password": "garciaPassword1"
+    },
+    {
+      "name": "Julieta",
+      "surname": "Hernández",
+      "mail": "julieta.hernandez@example.com",
+      "password": "hernandez987"
+    },
+    {
+      "name": "Tomás",
+      "surname": "Álvarez",
+      "mail": "tomas.alvarez@example.com",
+      "password": "tomasSecurePass"
+    },
+    {
+      "name": "Agustina",
+      "surname": "Gutiérrez",
+      "mail": "agustina.gutierrez@example.com",
+      "password": "agustina@pass"
+    },
+    {
+      "name": "Pedro",
+      "surname": "Muñoz",
+      "mail": "pedro.munoz@example.com",
+      "password": "pedro_pass45"
+    },
+    {
+      "name": "Lucía",
+      "surname": "Silva",
+      "mail": "lucia.silva@example.com",
+      "password": "lucia_abc123"
+    },
+    {
+      "name": "Emilio",
+      "surname": "Moreno",
+      "mail": "emilio.moreno@example.com",
+      "password": "morenoSecure123"
+    },
+    {
+      "name": "Clara",
+      "surname": "Ramos",
+      "mail": "clara.ramos@example.com",
+      "password": "clara!pass9"
+    },
+    {
+      "name": "Ignacio",
+      "surname": "Ruiz",
+      "mail": "ignacio.ruiz@example.com",
+      "password": "ignacioPass#"
+    },
+    {
+      "name": "Carolina",
+      "surname": "Vargas",
+      "mail": "carolina.vargas@example.com",
+      "password": "vargas_Pass123"
+    },
+    {
+      "name": "Fernando",
+      "surname": "Gómez",
+      "mail": "fernando.gomez@example.com",
+      "password": "fernando789"
+    },
+    {
+      "name": "María",
+      "surname": "Cruz",
+      "mail": "maria.cruz@example.com",
+      "password": "mariaCruzPass!"
+    },
+    {
+      "name": "Joaquín",
+      "surname": "Santos",
+      "mail": "joaquin.santos@example.com",
+      "password": "joaquin_santos_1"
+    },
+    {
+      "name": "Alicia",
+      "surname": "Romero",
+      "mail": "alicia.romero@example.com",
+      "password": "aliciaSecure@pass"
+    },
+    {
+      "name": "Nicolás",
+      "surname": "Ortiz",
+      "mail": "nicolas.ortiz@example.com",
+      "password": "nicolasSecure!"
+    },
+    {
+      "name": "Victoria",
+      "surname": "Suárez",
+      "mail": "victoria.suarez@example.com",
+      "password": "victoriaSecure2024"
+    },
+    {
+      "name": "Franco",
+      "surname": "Flores",
+      "mail": "franco.flores@example.com",
+      "password": "floresPass1234"
+    },
+    {
+      "name": "Daniela",
+      "surname": "Mendoza",
+      "mail": "daniela.mendoza@example.com",
+      "password": "mendoza2024!"
+    },
+    {
+      "name": "Manuel",
+      "surname": "Rojas",
+      "mail": "manuel.rojas@example.com",
+      "password": "rojas_secure!"
+    },
+    {
+      "name": "Natalia",
+      "surname": "Castro",
+      "mail": "natalia.castro@example.com",
+      "password": "natalia@secure1"
+    },
+    {
+      "name": "Ramiro",
+      "surname": "Figueroa",
+      "mail": "ramiro.figueroa@example.com",
+      "password": "figueroa_pass45"
+    },
+    {
+      "name": "Carla",
+      "surname": "Campos",
+      "mail": "carla.campos@example.com",
+      "password": "carlaSecure789"
+    },
+    {
+      "name": "Leonardo",
+      "surname": "Peña",
+      "mail": "leonardo.pena@example.com",
+      "password": "penaPassword123"
+    },
+    {
+      "name": "Florencia",
+      "surname": "Sosa",
+      "mail": "florencia.sosa@example.com",
+      "password": "florencia_2024!"
+    },
+    {
+      "name": "Julián",
+      "surname": "Díaz",
+      "mail": "julian.diaz@example.com",
+      "password": "julianPass!"
+    },
+    {
+      "name": "Micaela",
+      "surname": "Cáceres",
+      "mail": "micaela.caceres@example.com",
+      "password": "micaela_secure!"
+    },
+    {
+      "name": "Gastón",
+      "surname": "Navarro",
+      "mail": "gaston.navarro@example.com",
+      "password": "navarro123"
+    },
+    {
+      "name": "Paula",
+      "surname": "Espinoza",
+      "mail": "paula.espinoza@example.com",
+      "password": "espinoza2024"
+    },
+    {
+      "name": "Bruno",
+      "surname": "Rivera",
+      "mail": "bruno.rivera@example.com",
+      "password": "bruno_rivera_1"
+    },
+    {
+      "name": "Gisela",
+      "surname": "Luna",
+      "mail": "gisela.luna@example.com",
+      "password": "giselaPassword!"
+    },
+    {
+      "name": "Sebastián",
+      "surname": "Ibáñez",
+      "mail": "sebastian.ibanez@example.com",
+      "password": "sebastian_secure_1"
+    },
+    {
+      "name": "Ana",
+      "surname": "Vega",
+      "mail": "ana.vega@example.com",
+      "password": "ana_vega_Pass!"
+    },
+    {
+      "name": "Diego",
+      "surname": "Correa",
+      "mail": "diego.correa@example.com",
+      "password": "correa_secure123"
+    },
+    {
+      "name": "Melina",
+      "surname": "Cabrera",
+      "mail": "melina.cabrera@example.com",
+      "password": "melina123!"
+    }
+  ]
+  
