@@ -11,7 +11,7 @@ const usersApiRouter = Router()
 usersApiRouter.get("/", getAllUsers);
 usersApiRouter.get("/:uid", getUsers);
 usersApiRouter.post("/:name/:surname/:mail/", createUser)
-usersApiRouter.put("/:pid",updateUser)
-usersApiRouter.delete("/:pid", destroyUser)
+usersApiRouter.put("/:uid",updateUser)
+usersApiRouter.delete("/:uid", destroyUser)
 
 export default usersApiRouter
