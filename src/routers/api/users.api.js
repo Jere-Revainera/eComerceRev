@@ -5,12 +5,14 @@ import { getAllUsers,
     updateUser,
     destroyUser,
 } from "../../controllers/users.controller.js"
+import isValidDataUser from "../../middlewares/isValidDataUser.mid.js";
+
 
 const usersApiRouter = Router()
 
 usersApiRouter.get("/", getAllUsers);
 usersApiRouter.get("/:uid", getUsers);
-usersApiRouter.post("/:name/:surname/:mail/", createUser)
+usersApiRouter.post("/",isValidDataUser, createUser)
 usersApiRouter.put("/:uid",updateUser)
 usersApiRouter.delete("/:uid", destroyUser)
 

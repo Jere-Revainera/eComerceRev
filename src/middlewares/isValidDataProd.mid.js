@@ -1,4 +1,4 @@
-function isValidData(req, res, next) {
+function isValidDataProd(req, res, next) {
   try {
     const { title, stock, price } = req.body;
     if (!title || !stock || !price) {
@@ -13,4 +13,4 @@ function isValidData(req, res, next) {
   }
 }
  
-export default isValidData
+export default isValidDataProd
